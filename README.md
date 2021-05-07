@@ -19,7 +19,8 @@
 - Before starting the test, create a repository in GitHub. Create your account if you don't have one yet. Do not commit anything yet.
 - Create a file called my.log. When you’re ready to begin coding, please push my.log file with a text "IN" in it as your initial commit and a commit message "IN". This will indicate your start time. And when you take a break push the my.log file with a text and a commit message "BREAK", "BACK" when you resume and "OUT" when you finish. Pushing development files excluding my.log file should be done the usual way.
 
-# This exam is good for 8 hours. You can now start. Good luck!
+# This exam is good for 8 hours. 
+# You can now start. Good luck!
 
 ## Required Functionalities
 
